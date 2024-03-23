@@ -1,0 +1,12 @@
+cp3
+ st.line_chart(),
+ st.bar_chart()
+ st.area_chart()
+ st.map()
+st.plotly_chart()-plotly
+st.pyplot()->seaborn、matplotlib
+st.bokeh_chart()->bokeh
+uniques->:
+ Index(['Adelie', 'Gentoo', 'Chinstrap'], dtype='object')
+file_uploader读取文件
+
